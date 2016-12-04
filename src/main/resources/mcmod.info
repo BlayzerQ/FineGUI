@@ -1,0 +1,16 @@
+[
+{
+  "modid": "launchgui",
+  "name": "LaunchGUI",
+  "description": "FineGUI for FineMine.RU",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://finemine.ru/",
+  "updateUrl": "http://finemine.ru/",
+  "authorList": [ "Blayzer" ],
+  "credits": "FineGUI for FineMine.RU",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
